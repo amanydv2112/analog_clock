@@ -5,6 +5,7 @@
     background: url(clock1.png)no-repeat;
     background-size: 100%;
     margin: auto;
+    margin-top:9px;
 }
 #hours,#minutes,#seconds{
     position: absolute;
